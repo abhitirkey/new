@@ -23,13 +23,13 @@ function ISA_Page() {
         <div className="PageContainer">
             <Header/>
             <div className="AllSections">
-                <Banner/>
+                {/* <Banner/> */}
                 <Journey/>
-                <Academy/>
+                {/* <Academy/> */}
                 <Courses/>
                 <Mentoring/>
                 <Companies/>
-                <Placement/>
+                {/* <Placement/> */}
                 <Testimonials/>
                 <Enroll/>
                 <Catapult/>  

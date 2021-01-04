@@ -19,10 +19,10 @@ function Homepage() {
         <div className="HomePageContainer">
             <HomePageHeader/>
             <div className="AllSections Homepage">
-                <HomeBanner/>
-                <BannerTwo/>
+                {/* <HomeBanner/> */}
+                {/* <BannerTwo/> */}
                 <CoreFeatures/>
-                <Who/>
+                {/* <Who/> */}
                 <LastSection/>
             </div>
         </div>
